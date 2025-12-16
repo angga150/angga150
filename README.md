@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 
 ---
 
+### Learning
+- 🌱 Learning Laravel API
+- 🌱 Learning Tailwind
+
 ### 🔥 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,bootstrap,vscode" />
@@ -70,10 +74,3 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/angga_hdyy"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="mailto:anggatahubakar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/rv54hYt/wave-animation.gif" width="100%"/>
-</p>
-
