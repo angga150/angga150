@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ---
 
 ### Learning
-- 🌱 Learning Laravel API
-- 🌱 Learning Tailwind
+- 🌱 Learning React
+- 🌱 Learning node.js n express
 
 ### 🔥 Tech Stack
 <p align="center">
