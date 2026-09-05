@@ -53,13 +53,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=angga150&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angga150&layout=compact&theme=radical" />
-</p>
-
----
 <!--
 ### 🚀 Activity Graph
 <p align="center">
