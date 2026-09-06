@@ -26,11 +26,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E3FF&center=true&vCenter=true&random=false&width=500&lines=Hi+I'm+Angga+Haady+Wijaya!;Web+Developer;Always+Learning" />
 </h1>
 
-<!-- Coder GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
 ---
 
 ### 💫 About Me
