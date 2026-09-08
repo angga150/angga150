@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ---
 
 ### Learning
-- 🌱 Learning React
-- 🌱 Learning node.js n express
+- 🌱 Learning Laravel and Livewire
+- 🌱 Learning node.js 
 
 ### 🔥 Tech Stack
 <p align="center">
