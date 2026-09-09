@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ### Learning
 - 🌱 Learning Laravel and Livewire
 - 🌱 Learning node.js 
+- 🌱 Learning Tailwind CSS 4
 
 ### 🔥 Tech Stack
 <p align="center">
